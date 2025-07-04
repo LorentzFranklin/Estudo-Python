@@ -1,5 +1,3 @@
-# Livro de Receitas 
+# Estudo em Python
 
-Olá! Bem vindo ao meu livro de receitas!
-
-- Strogonoff de frango.
+Primeiros códigos em python!
